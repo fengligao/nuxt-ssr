@@ -1,0 +1,2 @@
+# nuxt-ssr
+nuxt-ssr
